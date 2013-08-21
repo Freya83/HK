@@ -1,0 +1,5 @@
+.container {width:940px;margin:0 auto;}
+
+#slideshow{height:496px; width:940px; float:left}
+ #slides{height:496px; position:relative}
+   .slide{height:496px; width:940px; overflow:hidden; position:absolute; }
